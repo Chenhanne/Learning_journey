@@ -1,0 +1,216 @@
+[
+  {
+    "studentNum": "2020213468",
+    "name": "Guo Haoran",
+    "password": "20020115",
+    "email": "1163694580@qq.com",
+    "GPA": 0.0,
+    "grade": 0.0,
+    "skills": [
+      {
+        "name": "Java",
+        "description": "I can use Java to write something."
+      },
+      {
+        "name": "Java",
+        "description": "I can use Java to write something."
+      },
+      {
+        "name": "Java",
+        "description": "I can use Java to write something."
+      },
+      {
+        "name": "Python",
+        "description": "Use python to work on NLP."
+      },
+      {
+        "name": "English",
+        "description": "My English is good enough to do conversation with Americans."
+      }
+    ],
+    "roles": [
+      {
+        "name": "Math Rep",
+        "description": "Help teachers.",
+        "type": "Module Rep"
+      },
+      {
+        "name": "Monitor",
+        "description": "I am very rich.",
+        "type": "Class Rep"
+      }
+    ],
+    "modules": [
+      {
+        "moduleID": "EBU4444",
+        "name": "Python",
+        "teacher": "Li Hua",
+        "credit": 5.0,
+        "grade": 98.0,
+        "type": "Compulsory",
+        "semester": 4
+      },
+      {
+        "moduleID": "EBU5555",
+        "name": "Java",
+        "teacher": "Li Bing",
+        "credit": 5.0,
+        "grade": 96.0,
+        "type": "Compulsory",
+        "semester": 7
+      }
+    ],
+    "extraCurriculums": [
+      {
+        "name": "原神",
+        "description": "启动！"
+      }
+    ],
+    "achievements": [
+      {
+        "name": "minor award",
+        "description": "I am good"
+      },
+      {
+        "name": "major award",
+        "description": "I am so good"
+      }
+    ]
+  },
+  {
+    "studentNum": "2020213355",
+    "name": "李亮",
+    "password": "111111",
+    "email": "1236@qq.com",
+    "GPA": 0.0,
+    "grade": 0.0,
+    "skills": [],
+    "roles": [],
+    "modules": [],
+    "extraCurriculums": [],
+    "achievements": []
+  },
+  {
+    "studentNum": "2020213477",
+    "name": "李运昌",
+    "password": "123123",
+    "email": "123312@gmail.com",
+    "GPA": 0.0,
+    "grade": 0.0,
+    "skills": [
+      {
+        "name": "java",
+        "description": "hello world"
+      }
+    ],
+    "roles": [],
+    "modules": [
+      {
+        "moduleID": "EBU2022",
+        "name": "Python",
+        "teacher": "Li li",
+        "credit": 5.0,
+        "grade": 77.0,
+        "type": "Compulsory",
+        "semester": 1
+      }
+    ],
+    "extraCurriculums": [],
+    "achievements": []
+  },
+  {
+    "studentNum": "2020213479",
+    "name": "小明",
+    "password": "123123",
+    "email": "123132@qq.com",
+    "GPA": 0.0,
+    "grade": 0.0,
+    "skills": [],
+    "roles": [],
+    "modules": [
+      {
+        "moduleID": "EBU11",
+        "name": "123",
+        "teacher": "5",
+        "credit": 6.0,
+        "grade": 88.0,
+        "type": "Compulsory",
+        "semester": 2
+      }
+    ],
+    "extraCurriculums": [],
+    "achievements": []
+  },
+  {
+    "studentNum": "111111",
+    "name": "Test",
+    "password": "111111",
+    "email": "11111@qq.com",
+    "GPA": 0.0,
+    "grade": 0.0,
+    "skills": [
+      {
+        "name": "Test",
+        "description": "Test"
+      }
+    ],
+    "roles": [
+      {
+        "name": "Test",
+        "description": "Test",
+        "type": "Class Rep"
+      },
+      {
+        "name": "Test",
+        "description": "Test",
+        "type": "Module Rep"
+      },
+      {
+        "name": "Test",
+        "description": "Test",
+        "type": "Volunteer"
+      }
+    ],
+    "modules": [
+      {
+        "moduleID": "EBU1111",
+        "name": "Python",
+        "teacher": "Lin Hao",
+        "credit": 5.0,
+        "grade": 88.0,
+        "type": "Elective",
+        "semester": 2
+      },
+      {
+        "moduleID": "EBU2222",
+        "name": "SQL",
+        "teacher": "Nick",
+        "credit": 3.0,
+        "grade": 88.0,
+        "type": "Public",
+        "semester": 3
+      },
+      {
+        "moduleID": "EBU1234",
+        "name": "Java",
+        "teacher": "Li He",
+        "credit": 4.0,
+        "grade": 90.0,
+        "type": "Compulsory",
+        "semester": 4
+      }
+    ],
+    "extraCurriculums": [
+      {
+        "name": "Test",
+        "description": "Test"
+      }
+    ],
+    "achievements": [
+      {
+        "name": "Test",
+        "description": "Test"
+      }
+    ]
+  }
+]

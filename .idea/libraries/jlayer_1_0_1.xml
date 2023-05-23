@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jlayer-1.0.1">
+    <CLASSES>
+      <root url="jar://E:/EdgeDownload/jlayer-1.0.1.jar!/" />
+      <root url="jar://E:/EdgeDownload/gson-2.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
