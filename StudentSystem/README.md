@@ -1,6 +1,6 @@
 # EBU6304_SE_Learning Journey
 
-##code version 1
+## code version 1
 
 #### 介绍
 软件工程大作业 code version 1
