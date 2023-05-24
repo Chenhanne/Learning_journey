@@ -28,6 +28,7 @@ Click StudentSystem.jar to run the application (Please locate the file students.
 ## Requirements
 1. jdk 1.8
 2. Some jars
+
 ![image](https://github.com/Chenhanne/Learning_journey/assets/116365899/602bd56b-b3ff-4228-8d1b-01dc16b11280)
 
 
