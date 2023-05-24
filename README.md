@@ -17,26 +17,30 @@ Our team will develop a Learning Journey Application for BUPT International Scho
 ## Quick Start: How to run our project
 ### 1. Use IDE
 Our project is developed using JetBrains IntelliJ IDEA compiler. The user can simply open this project folder in IDEA, and click the green triangle next to the application startup class SystemConsole.java to run it.
+![image](https://github.com/Chenhanne/Learning_journey/assets/116365899/250fc16d-c3a8-4a44-a61d-02ad2c27e0c3)
 
-![输入图片说明](readmeIMG/image_1.png)
 
 ### 2. Use Jar or executable file
 Click StudentSystem.jar to run the application (Please locate the file students.json)
-![输入图片说明](readmeIMG/image_2.png)
-![输入图片说明](readmeIMG/image_3.png)
+![image](https://github.com/Chenhanne/Learning_journey/assets/116365899/d08b1cea-63b7-464f-89c4-f80d81805b09)
+![image](https://github.com/Chenhanne/Learning_journey/assets/116365899/c1a7925c-3e16-4bdd-9ab2-377aef590da2)
 
 
 ## Requirements
 1. jdk 1.8
 2. Some jars
-![输入图片说明](readmeIMG/image_4.png)
+![image](https://github.com/Chenhanne/Learning_journey/assets/116365899/602bd56b-b3ff-4228-8d1b-01dc16b11280)
 
 
 ## Test Account Data
 ##### The student data for test:
+
 Student Number: 2020213468
+
 Password: 20020115
+
 Name: Guo Haoran
+
 Email: 2020213468@qq.com
 
 ### Iteration logs
