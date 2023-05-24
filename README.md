@@ -1,4 +1,4 @@
-# EBU6304_SE_Learning Journey
+# EBU6304_SE_G058_Learning Journey
 
 
 ## Project Introduction
