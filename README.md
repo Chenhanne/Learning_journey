@@ -1,6 +1,5 @@
 # EBU6304_SE_Learning Journey
 
-# EBU6304_SE_Learning Journey
 
 ## Project Introduction
 Our team will develop a Learning Journey Application for BUPT International School students in a few weeks using agile methods. We will conduct a systematic requirements survey, analysis and design, followed by writing implementation and testing of the software. And we will deliver four major iterations in a planned manner.
